@@ -1,0 +1,68 @@
+
+.heading1 {
+    text-align: center;
+    
+    color: aqua;
+    padding-top: 30px;
+}
+
+.body1{
+    border: .2ch black solid;
+    background-color: rgb(252, 252, 4);
+    margin:20px 50px 80px 10px;
+    padding:20px 50px 100px 10px;
+    width:1230px;
+    height:150px;
+    padding-bottom: 400px;
+
+
+}
+.heading2{
+    text-align: center;
+    color: rgb(254, 2, 53);
+    font-size: 30px;
+    text-align: center;
+}
+.box1{
+    margin-top:30px ;
+    padding:20px 80px;
+    text-align: center;
+    
+}
+#holder{
+    padding: 30px 70px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: lightsteelblue;
+    font-size: 20px;
+    color: coral;
+}
+    
+
+.but{
+        text-align: center;
+        Margin:10px 20px;
+        font-size: 25px;
+        padding: 20px 80px;
+        border-radius: 10px;
+        
+        
+    }
+    .bute{
+        font-size: 25px;
+        padding: 20px 80px;
+        border-radius: 10px;
+    }
+    .withdraw{
+        margin-left: 30px;
+        font-size: 25px;
+        padding: 20px 80px;
+        border-radius: 10px;
+    }
+    .stack{
+        margin-right: 30px;
+        font-size: 25px;
+        padding: 20px 80px;
+        border-radius: 10px;
+
+    }
